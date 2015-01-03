@@ -1,0 +1,9 @@
+{
+  "name": "socket99",
+  "version": "0.2.0",
+  "repo": "silentbicycle/socket99",
+  "description": "Wrapper library for the BSD sockets API with a nicer C99 interface",
+  "keywords": ["sockets", "api", "wrapper", "c99", "posix"],
+  "license": "MIT",
+  "src": ["socket99.c", "socket99.h"]
+}
